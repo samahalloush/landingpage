@@ -1,4 +1,4 @@
-# First Project Landing Page Project  
+# Landing Page Project  
 ## I used ( HTML, CSS, Javascript) A landing page is the transformation of a static page to a page that allows some sort of interaction. The dynamicity is achieved through javascript.
 
 ## Instructions this project has some HTML and CSS styling to display a static version of the Landing Page project. 
